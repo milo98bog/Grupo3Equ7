@@ -1,4 +1,6 @@
-beans\Alquiler.class
 beans\Usuario.class
 beans\Maquinas.class
 servlets\Pruebaservelt.class
+beans\Alquiler.class
+test\OperacionesDB.class
+connection\DBConnection.class
