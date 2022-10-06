@@ -71,6 +71,10 @@ public class Maquinas {
     public String toString() {
         return "Maquinas{" + "id=" + id + ", titulo=" + titulo + ", categoria=" + categoria + ", marca=" + marca + ", unidadesDisponibles=" + unidadesDisponibles + ", novedad=" + novedad + '}';
     }
+
+    public void add(String toJson) {
+        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+    }
     
     
 }

@@ -1,10 +1,13 @@
 C:\Users\ASUS\Desktop\EJERCICIOS MISION TIC\Java\MaquinaAlquiler\src\main\java\controller\IUsuarioController.java
-C:\Users\ASUS\Desktop\EJERCICIOS MISION TIC\Java\MaquinaAlquiler\src\main\java\servlets\ServletUsuarioRegister.java
-C:\Users\ASUS\Desktop\EJERCICIOS MISION TIC\Java\MaquinaAlquiler\src\main\java\beans\Alquiler.java
+C:\Users\ASUS\Desktop\EJERCICIOS MISION TIC\Java\MaquinaAlquiler\src\main\java\servlets\ServletUsuarioEliminar.java
 C:\Users\ASUS\Desktop\EJERCICIOS MISION TIC\Java\MaquinaAlquiler\src\main\java\beans\Maquinas.java
-C:\Users\ASUS\Desktop\EJERCICIOS MISION TIC\Java\MaquinaAlquiler\src\main\java\connection\DBConnection.java
-C:\Users\ASUS\Desktop\EJERCICIOS MISION TIC\Java\MaquinaAlquiler\src\main\java\servlets\ServletUsuarioLogin.java
 C:\Users\ASUS\Desktop\EJERCICIOS MISION TIC\Java\MaquinaAlquiler\src\main\java\controller\UsuarioController.java
 C:\Users\ASUS\Desktop\EJERCICIOS MISION TIC\Java\MaquinaAlquiler\src\main\java\servlets\Pruebaservelt.java
+C:\Users\ASUS\Desktop\EJERCICIOS MISION TIC\Java\MaquinaAlquiler\src\main\java\servlets\ServletUsuarioRegister.java
+C:\Users\ASUS\Desktop\EJERCICIOS MISION TIC\Java\MaquinaAlquiler\src\main\java\servlets\ServletUsuarioModificar.java
+C:\Users\ASUS\Desktop\EJERCICIOS MISION TIC\Java\MaquinaAlquiler\src\main\java\beans\Alquiler.java
+C:\Users\ASUS\Desktop\EJERCICIOS MISION TIC\Java\MaquinaAlquiler\src\main\java\connection\DBConnection.java
+C:\Users\ASUS\Desktop\EJERCICIOS MISION TIC\Java\MaquinaAlquiler\src\main\java\servlets\ServletUsuarioLogin.java
 C:\Users\ASUS\Desktop\EJERCICIOS MISION TIC\Java\MaquinaAlquiler\src\main\java\beans\Usuario.java
+C:\Users\ASUS\Desktop\EJERCICIOS MISION TIC\Java\MaquinaAlquiler\src\main\java\servlets\ServletUsuarioPedir.java
 C:\Users\ASUS\Desktop\EJERCICIOS MISION TIC\Java\MaquinaAlquiler\src\main\java\test\OperacionesDB.java
